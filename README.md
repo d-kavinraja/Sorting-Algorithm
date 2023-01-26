@@ -57,6 +57,16 @@ print(list_of_nums)
 ```
 
 ## Output:
+i)
+
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-26%2011-45-25.png![image](https://user-images.githubusercontent.com/119875375/214770311-c64240ae-e0d1-4dce-ba60-5aa7971941d6.png)
+
+
+ii)
+
+
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-26%2011-46-13.png![image](https://user-images.githubusercontent.com/119875375/214770372-dad79305-0455-49fd-834e-f9c683fb98b8.png)
+
 
 
 ## Result:
